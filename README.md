@@ -32,6 +32,6 @@ devtools::install_github("brenwin1/cwdata")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(cwdata )
+library(cwdata)
 ## basic example code
 ```
